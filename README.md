@@ -1,5 +1,5 @@
 # Exercise-01d-Inky-Misc
 
-# Your Name
+# Ian Fernandez
 
-# Your Github username
+# Phemto
