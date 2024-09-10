@@ -12,6 +12,9 @@ This exercise will demonstrate the following in the example video:
  - Create a function that serves as a timer. (This is shown in the video)
 */
 
+/* 
+11 total loops, time variable updated each click, total classes attended variable given at end.
+*/
 
 VAR time = -1 //  0 Morning, 1 Noon, 2 Night
 VAR attendedClasses = 1
